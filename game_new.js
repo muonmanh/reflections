@@ -1,4 +1,4 @@
-// Canvas Asteroids
+// Canvas A
 //
 // Copyright (c) 2010 Doug McInnes
 //
